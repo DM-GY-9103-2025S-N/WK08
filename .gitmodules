@@ -1,0 +1,3 @@
+[submodule "MoMA-data"]
+	path = MoMA-data
+	url = https://github.com/MuseumofModernArt/collection.git
